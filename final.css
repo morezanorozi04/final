@@ -1,0 +1,44 @@
+html {
+    height:100%;
+    background:linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+
+}
+div {
+    margin-top: 200px;
+    margin-left: 500px;
+    height: 350px;
+    width: 350px;
+    background:rgba(35, 28, 45, 0.899);
+
+}
+.esm0{
+    text-align: center;
+}
+.esm1{
+    padding-left: 10px;
+    margin-top: 50px;
+    
+
+
+
+}
+.esm2{
+    margin-left: 10px;
+    
+
+
+}.esm3{
+    padding-left: 10px;
+    padding-top: 50px;
+    
+
+
+
+
+}.esm4{
+    margin-left: 10px;
+
+
+
+
+}
